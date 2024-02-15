@@ -1,0 +1,28 @@
+
+body{
+    background-color: black;
+}
+.color-div{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px solid black ;
+    margin: 20px auto;
+    background-color: white;
+}
+.color-Change{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.mainDiv{
+border-radius: 5px solid white;
+width: 500px;
+height: 500px;
+margin-left: 30%;
+}
+.mainDiv h1{
+    color: white;
+    text-align: center;
+    
+}
